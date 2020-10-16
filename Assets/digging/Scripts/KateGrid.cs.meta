@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 81663b46015254a65aa8ae32a3ca795e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - DirtBlock: {instanceID: 0}
+  - BadBlock: {fileID: 5029526681466762520, guid: 8a6bc3d30ec1147a6a72e39a03fa7fdd,
+      type: 3}
+  - Prize: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
